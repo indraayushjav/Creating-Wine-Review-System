@@ -1,5 +1,5 @@
 # Creating-Wine-Review-System
-**bold**Introduction and Data
+**Introduction and Data**
 For this lab, we will utilize the “Wine Quality” dataset from the UCI Machine Learning Repository.
 
 UCI MLR: Wine Quality
